@@ -29,15 +29,9 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Actions Completed
-*
-*
-*
-*
-*
-*
-*
-
-
+* Created password generator when "Generate password" button is clicked by user which prompts passowrd criteria 
+* Created prompts for password length and character types to use
+* Input for password will be generated based on criteria questions is validated so at least one character type is selected when all prompts are answered
 
 ## Mock-Up
 
