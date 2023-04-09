@@ -33,8 +33,11 @@ THEN the password is either displayed in an alert or written to the page
 * Created prompts for password length and character types to use
 * Input for password will be generated based on criteria questions is validated so at least one character type is selected when all prompts are answered
 
+## Page Link 
+https://saephanhe56.github.io/password-generator/
+
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".]
+![screenshot](../assets/password-generator/assets/password-generator_screenshot_.jpg)
