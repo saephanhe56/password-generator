@@ -1,4 +1,5 @@
 # password-generator
+week 3 homework challenge, create password generator
 
 ## User Story
 
@@ -40,4 +41,4 @@ https://saephanhe56.github.io/password-generator/
 
 The following image shows the web application's appearance and functionality:
 
-![screenshot](/assets/password-generator/assets/password-generator_screenshot_.jpg)
+![screenshot](assets/password-generator_screenshot_.jpg)
